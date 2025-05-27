@@ -1,6 +1,6 @@
 <?php
 $username = "admin";
-$password = "N1gg3r P0w3r3d!!!";
+$password = "experienced";
 $salt= "sup3rcalifr4gilisticexpialid0ci0us";
 
 if(!isset($_COOKIE['PrivatePageLogin'])  &&  !isset($_GET["p"])) {
